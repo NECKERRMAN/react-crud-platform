@@ -1,0 +1,29 @@
+.title {
+    font-size: 1.5rem;
+    margin: 1rem 0;
+    position: relative;
+    display: block;
+    padding-bottom: 0.5rem;
+    color: #001d6e;
+}
+
+.title--big {
+    font-weight: 700;
+    font-size: 1.75rem;
+    margin-bottom: 1.5rem;
+}
+
+.title--medium {
+    font-weight: 500;
+}
+
+.title--big::after {
+    content: "";
+    position: absolute;
+    border-radius: 5px;
+    width: 100%;
+    height: 5px;
+    background-color: #001d6e;
+    bottom: 0rem;
+    left: 0;
+}

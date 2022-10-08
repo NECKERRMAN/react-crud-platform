@@ -1,0 +1,19 @@
+table {
+    width: 100%;
+}
+
+th {
+    text-align: left;
+    color: #001d6e;
+    padding-bottom: 5px;
+    border-bottom: 2px solid #001d6e;
+    margin-bottom: 1rem;
+}
+
+tr td {
+    padding: 0.5rem 0;
+}
+
+tr:nth-child(even) {
+    background-color: #001d6e2a;
+}

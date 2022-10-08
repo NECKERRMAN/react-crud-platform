@@ -1,0 +1,80 @@
+.btn {
+    border-radius: 5px;
+    border: none;
+    color: #fff;
+    font-weight: bold;
+    padding: 10px;
+    cursor: pointer;
+    transition: 0.2s ease-in;
+    text-align: center;
+}
+
+.btn--primary,
+.btn--login {
+    background-color: #001d6e;
+    border-radius: 5px;
+    color: white;
+}
+
+.btn--dashboard,
+.btn--new,
+.btn--password {
+    margin: 2rem;
+    border: 2px solid #001d6e;
+    color: #001d6e;
+    border-radius: 5px;
+    transition: all 0.2s ease-in;
+}
+
+.btn--password {
+    margin: 1rem 0;
+    width: fit-content;
+}
+
+.btn--new {
+    margin: 0;
+}
+
+.btn--dashboard:hover,
+.btn--new:hover {
+    background-color: #001d6e;
+    color: white;
+}
+
+.btn--login-form {
+    background-color: #7fb5ff;
+}
+
+.btn--logout {
+    background-color: #001d6e;
+    border-radius: 5px;
+}
+
+.btn--secondary {
+    background-color: transparent;
+    text-decoration: underline;
+    color: #001d6e;
+}
+
+.btn--delete {
+    width: 4rem;
+    height: auto;
+    font-size: 1rem;
+    border-radius: 5px;
+    background-color: #ff6962;
+    margin: 0 1rem;
+}
+
+.btn--logout:hover {
+    background-color: #fd3a73;
+    transform: none;
+}
+
+.btn--delete:hover {
+    transform: none;
+}
+
+.disabled {
+    opacity: 0.4;
+    pointer-events: none;
+}

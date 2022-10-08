@@ -1,0 +1,17 @@
+.formGroup--standard {
+    display: flex;
+    flex-direction: column;
+    margin: 1.5rem 0;
+}
+
+.formGroup--small {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+.formGroup--standard label,
+.formGroup--small label {
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+}

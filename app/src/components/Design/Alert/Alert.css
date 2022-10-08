@@ -1,0 +1,30 @@
+.alert {
+    padding: 0.5rem;
+    background-color: rgb(251, 139, 139);
+    border: 1px solid red;
+    width: 50%;
+    margin: 0.5rem auto;
+    text-align: center;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.alert p {
+    margin: 0;
+}
+
+.alert--warning {
+    background-color: rgb(254, 236, 237);
+    border: 1px solid rgb(208, 30, 41);
+    color: rgb(208, 30, 41);
+}
+
+.alert--info {
+    width: 100%;
+    margin: 0;
+    border-radius: 0;
+    background-color: #001d6e;
+    border: none;
+    color: white;
+    padding: 2px;
+}

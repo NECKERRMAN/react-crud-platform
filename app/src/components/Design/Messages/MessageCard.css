@@ -1,0 +1,31 @@
+.message-card,
+.message-card--read {
+    padding: 0.5rem;
+    margin: 1rem 0;
+    display: flex;
+    align-items: center;
+}
+
+.message-card--read {
+    background-color: white;
+    border: 1px solid #001d6e;
+}
+
+.message-card {
+    background-color: #8eaaf5;
+}
+
+.message-card__new {
+    color: white;
+    font-weight: 700;
+    margin-right: 1rem;
+}
+
+.message-card__office {
+    font-weight: 600;
+    margin-right: 1rem;
+}
+
+.message-card__adress {
+    margin-right: 1rem;
+}

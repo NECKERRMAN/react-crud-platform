@@ -1,0 +1,224 @@
+{
+    "name": "IMMO DENECKERE",
+    "onboarding": {
+        "login": {
+            "title": "Login",
+            "button": "Login"
+        },
+        "register": {
+            "title": "Register",
+            "subtitle": "Hello there"
+        }
+    },
+    "navigation": {
+        "home": "Home",
+        "rent": "For rent",
+        "sale": "For Sale",
+        "dashboard": "Dashboard",
+        "admin": "Admin dashboard",
+        "favourites": "My favourites",
+        "office": "My office",
+        "logout": "Logout",
+        "account": "My account",
+        "loggedout": "You can see more when you're logged in!"
+    },
+    "offices": {
+        "title": "Offices",
+        "realtor": "My office"
+    },
+    "properties": {
+        "title": "Properties",
+        "overview": {
+            "title": "Properties",
+            "all": "All properties",
+            "create": "Create property +",
+            "none": "No properties yet"
+        },
+        "rent": {
+            "title": "For rent",
+            "subtitle": "Find your dreamhouse",
+            "description": "Explore our wide range of houses, appartments, bungalows, land and so much more!",
+            "all": "see all"
+        },
+        "sale": {
+            "title": "For sale",
+            "subtitle": "Buy your dreamhouse",
+            "description": "Explore our wide range of houses, appartments, bungalows, land and so much more!",
+            "all": "see all"
+        },
+        "create": {
+            "title": "Create property",
+            "add": "Add a new property +"
+        },
+        "edit": {
+            "title": "Edit property"
+        },
+        "navigate": {
+            "to": "To the admin dashboard"
+        },
+        "detail": {
+            "title": "Detail",
+            "adress": "Adress",
+            "city": "City",
+            "price": "Price",
+            "status": "Status",
+            "action": "Action",
+            "rooms": "rooms",
+            "bathrooms": "bathrooms",
+            "bathroom": "bathroom",
+            "bedrooms": "bedrooms",
+            "bedroom": "bedroom",
+            "surface": "surface",
+            "rent": "Monthly rent",
+            "sale": "For sale"
+        },
+        "fields": {
+            "contact": "Contact realtor"
+        },
+        "card": {
+            "placeholder": "Placeholderstr 1"
+        },
+        "realtorcontact": {
+            "contact": "Contact realtor"
+        }
+    },
+    "categories": {
+        "title": "Categories",
+        "id": "Id",
+        "name": "Category name",
+        "key": "Category key",
+        "add": "Add category",
+        "action": "Delete category"
+    },
+    "realtors": {
+        "title": "Realtors",
+        "overview": {
+            "title": "Realtors",
+            "all": "All realtors"
+        },
+        "create": {
+            "title": "Add a new realtor +",
+            "name": "Add realtor"
+        },
+        "edit": {
+            "title": "Edit realtor"
+        },
+        "office": {
+            "details": "Office details",
+            "messages": "Office messages"
+        },
+        "dashboard": "Dashboard",
+        "fields": {
+            "id": "Id",
+            "name": "Name",
+            "office": "Office",
+            "action": "Action"
+        }
+    },
+    "users": {
+        "title": "Users",
+        "favourites": {
+            "title": "My favourites"
+        },
+        "messages": {
+            "title": "My messages"
+        },
+        "overview": {
+            "title": "Users",
+            "create": "Create user"
+        },
+        "create": {
+            "title": "Create user"
+        },
+        "edit": {
+            "title": "Edit user",
+            "password_print": "Leave blank if you don't want to change the password"
+        }
+    },
+    "admin": {
+        "dashboard": {
+            "title": "Dashboard",
+            "new-property": "New property",
+            "properties": "Properties",
+            "categories": "All categories",
+            "offices": "Immo offices & messages",
+            "realtors": "All realtors",
+            "users": "All users"
+        },
+        "office": {
+            "all": "All offices",
+            "add": "Add a new office +",
+            "new": "New office",
+            "messages": "All messages"
+        },
+        "properties": {
+            "all": "All properties",
+            "add": "Add a new property +",
+            "edit": "Edit property"
+        },
+        "realtors": {
+            "all": "All realtors",
+            "add": "Add a new realtor +",
+            "edit": "Edit realtor"
+        },
+        "users": {
+            "all": "All users",
+            "edit": "Edit user"
+        }
+    },
+    "buttons": {
+        "create": "Create",
+        "edit": "Edit",
+        "save": "Save",
+        "generate": "Generate password",
+        "delete": "Delete",
+        "add": "Add",
+        "update": "Update",
+        "send": "Send",
+        "city-filter": "Go to city",
+        "search": "Search",
+        "login": "Login"
+    },
+    "fields": {
+        "placeholder-contact": "Request for information about this property",
+        "action": "Action",
+        "id": "Id",
+        "email": "Email",
+        "name": "Name",
+        "surname": "Surname",
+        "password": "Password",
+        "password-realtor": "Password for realtor",
+        "office": "Office",
+        "project": "Project",
+        "user": "User",
+        "price": "Price",
+        "city": "City",
+        "adress": "Adress",
+        "rooms": "Rooms",
+        "bedrooms": "Bedrooms",
+        "bathrooms": "Bathrooms",
+        "role": "Role",
+        "property": "Property type",
+        "category": "Category",
+        "surface": "Surface",
+        "listed": "Listed as",
+        "description": "Description",
+        "date": "Date",
+        "time": "Time",
+        "phone": "Phone number",
+        "propertyImage": "Property image",
+        "officeImage": "Office image",
+        "contactEmail": "Contact email",
+        "contactName": "Contact name",
+        "street": "Street",
+        "status": "Status",
+        "message": "Message",
+        "key": "Key",
+        "contact": "Contact",
+        "login": "Login"
+    },
+    "filters": {
+        "category": "Category",
+        "price": "Price"
+    }
+}

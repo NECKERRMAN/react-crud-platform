@@ -1,0 +1,24 @@
+.property-detail__details {
+    padding: 1rem 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+
+    flex-grow: 3;
+}
+
+.property-detail__details h2 {
+    font-size: 1.75rem;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #001d6e;
+}
+
+.property-detail__details ul {
+    margin-bottom: 1rem;
+}
+
+.property-detail__details ul span {
+    margin-right: 1rem;
+    font-weight: 600;
+    color: #001d6e;
+}
